@@ -1,0 +1,1 @@
+taskkill /im steam.exe /f
