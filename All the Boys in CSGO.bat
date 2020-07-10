@@ -1,2 +1,0 @@
-rem Group 1
-vdesk on:1 run:"C:\Program Files\Sandboxie\Start.exe" /box:DefaultBox "C:\Program Files (x86)\Steam\Steam.exe" -silent -login "username" "password" -applaunch 730 -novid -nojoy -nosound -window -w 640 -h 480

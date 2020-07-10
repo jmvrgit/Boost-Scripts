@@ -1,0 +1,6 @@
+rem Group 1
+vdesk on:2 run:"C:\Program Files\Sandboxie\Start.exe" /box:DefaultBox "C:\Program Files (x86)\Steam\Steam.exe" -silent -login "USERNAME1" "PASSWORD1" -applaunch 730 -novid -nojoy -nosound -window -w 640 -h 480 -x 0 -y 0
+vdesk on:2 run:"C:\Program Files\Sandboxie\Start.exe" /box:1 "C:\Program Files (x86)\Steam\Steam.exe" -silent -login "USERNAME2" "PASSWORD2" -applaunch 730 -novid -nojoy -nosound -window -w 640 -h 480 -x 640 -y 0
+vdesk on:2 run:"C:\Program Files\Sandboxie\Start.exe" /box:2 "C:\Program Files (x86)\Steam\Steam.exe" -silent -login "USERNAME3" "PASSWORD3" -applaunch 730 -novid -nojoy -nosound -window -w 640 -h 480 -x 1280 -y 0
+vdesk on:2 run:"C:\Program Files\Sandboxie\Start.exe" /box:4 "C:\Program Files (x86)\Steam\Steam.exe" -silent -login "USERNAME4" "PASSWORD4" -applaunch 730 -novid -nojoy -nosound -window -w 640 -h 480 -x 0 -y 505
+vdesk on:2 run:"C:\Program Files\Sandboxie\Start.exe" /box:5 "C:\Program Files (x86)\Steam\Steam.exe" -silent -login "USERNAME5" "PASSWORD5" -applaunch 730 -novid -nojoy -nosound -window -w 640 -h 480 -x 640 -y 505
