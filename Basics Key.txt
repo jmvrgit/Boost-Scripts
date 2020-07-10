@@ -1,0 +1,193 @@
+<hotkey LCtrl R>
+	<sendpc local>
+		<renamewin "Counter-Strike: Global Offensive" CSGO1>
+		<renamewin "Counter-Strike: Global Offensive" CSGO2>
+		<renamewin "Counter-Strike: Global Offensive" CSGO3>
+		<renamewin "Counter-Strike: Global Offensive" CSGO4>
+		<renamewin "Counter-Strike: Global Offensive" CSGO5>
+		<renamewin "Counter-Strike: Global Offensive" CSGO6>
+		<renamewin "Counter-Strike: Global Offensive" CSGO7>
+		<renamewin "Counter-Strike: Global Offensive" CSGO8>
+		<renamewin "Counter-Strike: Global Offensive" CSGO9>
+		<renamewin "Counter-Strike: Global Offensive" CSGOX>
+<hotkey RCtrl R>
+	<sendpc local>
+		<renamewin CSGO1 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO2 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO3 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO4 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO5 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO6 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO7 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO8 "Counter-Strike: Global Offensive" >
+		<renamewin CSGO9 "Counter-Strike: Global Offensive" >
+		<renamewin CSGOX "Counter-Strike: Global Offensive">
+
+<hotkey F1>
+	<sendpc local>
+		<sendwinM "CSGO1">
+			<key F1>
+		<sendwinM "CSGO2">
+			<key F1>
+		<sendwinM "CSGO3">
+			<key F1>
+		<sendwinM "CSGO4">
+			<key F1>
+		<sendwinM "CSGO5">
+			<key F1>
+		<sendwinM "CSGO6">
+			<key F1>
+		<sendwinM "CSGO7">
+			<key F1>
+		<sendwinM "CSGO8">
+			<key F1>
+		<sendwinM "CSGO9">
+			<key F1>
+		<sendwinM "CSGOX">
+			<key F1>
+<hotkey Space>
+	<sendpc local>
+		<sendwinM "CSGO1">
+			<key Space>
+		<sendwinM "CSGO2">
+			<key Space>
+		<sendwinM "CSGO3">
+			<key Space>
+		<sendwinM "CSGO4">
+			<key Space>
+		<sendwinM "CSGO5">
+			<key Space>
+		<sendwinM "CSGO6">
+			<key Space>
+		<sendwinM "CSGO7">
+			<key Space>
+		<sendwinM "CSGO8">
+			<key Space>
+		<sendwinM "CSGO9">
+			<key Space>
+		<sendwinM "CSGOX">
+			<key Space>
+<hotkey F7>
+	<sendpc local>
+		<sendwinM "CSGO1">
+			<key F7>
+		<sendwinM "CSGO2">
+			<key F7>
+		<sendwinM "CSGO3">
+			<key F7>
+		<sendwinM "CSGO4">
+			<key F7>
+		<sendwinM "CSGO5">
+			<key F7>
+		<sendwinM "CSGO6">
+			<key F7>
+		<sendwinM "CSGO7">
+			<key F7>
+		<sendwinM "CSGO8">
+			<key F7>
+		<sendwinM "CSGO9">
+			<key F7>
+		<sendwinM "CSGOX">
+			<key F7>
+<hotkey F3>
+	<sendpc local>
+		<sendwinM "CSGO1">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO2">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO3">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO4">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO5">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO6">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO7">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO8">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGO9">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
+		<sendwinM "CSGOX">
+			<key Oem3>
+			<wait 100>
+			<key NumpadPlus>
+			<text left;>
+			<key NumpadPlus>
+			<text right>
+			<wait 100>
+			<key Enter>
+			<key Oem3>
